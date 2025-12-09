@@ -12,7 +12,7 @@ Este projeto é a base da minha consultoria de otimização, onde aplico configu
 
 ---
 
-### 🎯 O que o GTweaks faz (The "Miracle" Part)
+### 🎯 O que o GTweaks faz
 
 Ao contrário de ferramentas genéricas, o GTweaks atua em camadas profundas do sistema:
 
@@ -39,7 +39,7 @@ Em testes realizados com clientes da consultoria, observamos consistentemente:
 
 | Métrica | Windows Stock | Com GTweaks |
 | :--- | :---: | :---: |
-| **Processos em 2º Plano** | 180+ | < 90 |
+| **Processos em 2º Plano** | 200+ | < 90 |
 | **Consumo de RAM (Idle)** | 4GB+ | ~1.8GB |
 | **DPC Latency** | Instável | Estável/Baixa |
 | **Input Lag** | Padrão | Otimizado |
