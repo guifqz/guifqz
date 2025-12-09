@@ -37,7 +37,7 @@ O projeto combina a robustez do PowerShell para alterações de baixo nível com
 
 Em testes realizados com clientes da consultoria, observamos consistentemente:
 
-| Métrica | Windows Stock | Com GTweaks |
+| Métrica | Windows Padrão | Com GTweaks |
 | :--- | :---: | :---: |
 | **Processos em 2º Plano** | 200+ | < 90 |
 | **Consumo de RAM (Idle)** | 4GB+ | ~1.8GB |
