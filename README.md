@@ -2,7 +2,7 @@
 
 ### 🔧 Infraestrutura | Automação | Otimização de Sistemas
 
-Atualmente atuo com **Suporte de TI e Infraestrutura**, mas meu foco real está em transformar processos manuais em código.
+Atualmente atuo com **Suporte de TI e Infraestrutura**
 
 Estou migrando minha carreira para o Desenvolvimento, utilizando minha base sólida em hardware e sistemas operacionais para criar softwares que otimizam performance e automatizam rotinas. Não apenas conserto máquinas; crio ferramentas para que elas funcionem melhor.
 
