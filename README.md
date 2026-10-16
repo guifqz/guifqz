@@ -1,8 +1,9 @@
-<h1 align="center">Olá, eu sou o Guilherme 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:3a0ca3,50:4361ee,100:4cc9f0&text=Guilherme%20Menezes&fontColor=ffffff&fontSize=50&fontAlignY=36&desc=Coordenador%20de%20TI%20%C2%B7%20Infra%20%C2%B7%20Protheus%20%C2%B7%20Automa%C3%A7%C3%A3o&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Guilherme Menezes">
 
 <p align="center">
-  <b>Coordenador de TI</b> · Infraestrutura, ERP Protheus e automação · Estudante de ADS<br>
-  São Paulo, Brasil
+  <a href="https://github.com/guifqz">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=4CC9F0&center=true&vCenter=true&width=600&lines=Transformo+tarefa+repetitiva+em+script;PowerShell+%C2%B7+Python+%C2%B7+Java;Windows+otimizado+para+games+com+a+GTweaks;Infra%2C+rede+e+ERP+no+mesmo+lugar" alt="Typing SVG">
+  </a>
 </p>
 
 <p align="center">
@@ -12,55 +13,63 @@
   <a href="https://www.tiktok.com/@gtweaks"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
 </p>
 
----
+## 🧑‍💻 Sobre mim
 
-### Sobre mim
+<table>
+<tr>
+<td width="60%" valign="top">
 
-- 🏢 **Coordenador de TI** em uma indústria de dispositivos médicos (~150 pessoas): lidero o setor e respondo por toda a TI, da rede ao ERP.
-- 🧩 Sustento o **TOTVS Protheus** (12.1.2510, T-Cloud) no dia a dia: atendimento aos setores, SQL, cadastros fiscais e atualização de release.
-- 🖥️ Cuido da infraestrutura: Windows Server / Active Directory, Microsoft 365, rede **UniFi**, backup em NAS, CFTV e central de chamados.
-- ⚡ Desde 2022 toco a **GTweaks**, onde otimizo Windows para games (FPS, input lag, estabilidade) e desenvolvo as ferramentas que uso nos atendimentos.
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**, com foco em automação, scripting e desenvolvimento backend.
+- 🏢 **Coordenador de TI** em uma indústria de dispositivos médicos: lidero o setor e respondo por toda a TI, da rede ao ERP.
+- 🧩 Sustento o **TOTVS Protheus** (12.1.2510, T-Cloud): atendimento aos setores, SQL, cadastros fiscais e atualização de release.
+- 🖥️ Infra: **Windows Server / AD**, Microsoft 365, rede **UniFi**, backup em NAS, CFTV e central de chamados.
+- ⚡ Desde 2022 toco a **GTweaks**: otimização de Windows para games (FPS, input lag, estabilidade) e as ferramentas que uso nos atendimentos.
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**.
 
-Comecei como Jovem Aprendiz de TI em 2025 e cheguei a coordenador em menos de um ano. Gosto de transformar tarefas repetitivas em script.
+</td>
+<td width="40%" valign="top">
 
----
+```yaml
+nome: Guilherme Menezes
+local: São Paulo, BR
+cargo: Coordenador de TI
+trajetoria:
+  2025: Jovem Aprendiz de TI
+  2026-04: Assistente de TI
+  2026-09: Coordenador de TI
+foco: [infra, protheus, automação]
+lema: "se repetiu 3x, vira script"
+```
 
-### Stack
+</td>
+</tr>
+</table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=powershell,python,java,bash,js,html,css,git,github,windows,aws,vscode&perline=12" alt="Stack">
-</p>
-
-| Área | Ferramentas |
-|---|---|
-| **Linguagens** | PowerShell, Python, Java, Bash, JavaScript, SQL, ADVPL |
-| **Infra & Sistemas** | Windows Server, Active Directory, GPO, Microsoft 365, UniFi, NAS / backup |
-| **ERP** | TOTVS Protheus (Compras, Estoque, Faturamento, Financeiro, Fiscal) |
-| **Windows** | Debloat, hardening, ajustes de registro e serviços, ISOs customizadas (NTLite) |
-| **Automação & IA** | n8n, AWS Step Functions, Amazon Bedrock, Claude Code |
-
----
-
-### Projetos em destaque
-
-#### ⚡ [GTweaks](https://github.com/guifqz/gtweakss)
-Ferramenta all-in-one em **PowerShell** para otimizar o Windows 10/11: remove bloatware, desativa telemetria e ajusta serviços e registro para performance em jogos. Fork em PT-BR do WinUtil (Chris Titus Tech), licença MIT. Roda com um comando no PowerShell.
-
-#### 🔍 GTweaks Amostra Grátis *(privado)*
-Executável leve que analisa o PC, dá uma **nota de 0 a 100** e aplica as otimizações básicas em um clique, com opção de desfazer. Envia métricas de uso (funil, nota antes/depois, hardware) para um webhook do Discord, que eu uso para medir a conversão.
-
-#### 🛡️ [Motor de Validação GTweaksEngine](https://github.com/guifqz/Motor-de-Valida-o-GTweaksEngine)
-Pipeline em **Java** que valida cada ajuste de registro e rotina de redução de input lag antes de executar. Usa o padrão **Chain of Responsibility** para separar validação de execução: nada crítico roda sem passar por todas as checagens.
-
-#### ☁️ [AWS Delivery Assistant](https://github.com/guifqz/AWS-Delivery-Project)
-Orquestração do fluxo de pedidos de delivery com **AWS Step Functions**, DynamoDB (estoque em tempo real), Lambda (pagamento), SNS (notificações) e **Amazon Bedrock** gerando a confirmação e sugerindo acompanhamentos.
-
-#### 🎙️ [Voice API](https://github.com/guifqz/voice-api)
-API de voz em **Java**.
-
----
+## 🛠️ Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifqz&layout=compact&theme=transparent&hide_border=true" alt="Linguagens mais usadas">
+  <img src="https://skillicons.dev/icons?i=powershell,python,java,bash,js,html,css,aws&theme=dark" alt="Linguagens e cloud"><br>
+  <img src="https://skillicons.dev/icons?i=git,github,windows,linux,vscode,discord,notion&theme=dark" alt="Ferramentas">
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TOTVS%20Protheus-ADVPL-1a1b27?style=flat-square&labelColor=4361ee" alt="Protheus">
+  <img src="https://img.shields.io/badge/Windows%20Server-Active%20Directory-1a1b27?style=flat-square&logo=windows&labelColor=0078D4" alt="Windows Server">
+  <img src="https://img.shields.io/badge/Microsoft%20365-Admin-1a1b27?style=flat-square&logo=microsoft&labelColor=D83B01" alt="M365">
+  <img src="https://img.shields.io/badge/UniFi-Rede-1a1b27?style=flat-square&logo=ubiquiti&labelColor=0559C9" alt="UniFi">
+  <img src="https://img.shields.io/badge/SQL-Server-1a1b27?style=flat-square&logo=microsoftsqlserver&labelColor=CC2927" alt="SQL">
+  <img src="https://img.shields.io/badge/n8n-Automa%C3%A7%C3%A3o-1a1b27?style=flat-square&logo=n8n&labelColor=EA4B71" alt="n8n">
+  <img src="https://img.shields.io/badge/Claude%20Code-IA-1a1b27?style=flat-square&logo=anthropic&labelColor=D97757" alt="Claude Code">
+</p>
+
+## 🚀 Projetos em destaque
+
+| Projeto | O que faz |
+|---|---|
+| ⚡ **[GTweaks](https://github.com/guifqz/gtweakss)** | Otimizador all-in-one em PowerShell para Windows 10/11: remove bloatware, desativa telemetria e ajusta serviços e registro. Fork PT-BR do WinUtil, MIT. Roda com um comando. |
+| 🔍 **GTweaks Amostra Grátis** *(privado)* | Executável leve que dá uma **nota de 0 a 100** ao PC e aplica as otimizações básicas em 1 clique, com desfazer. Manda métricas (funil, nota antes/depois, hardware) para um webhook do Discord. |
+| 🛡️ **[Motor de Validação](https://github.com/guifqz/Motor-de-Valida-o-GTweaksEngine)** | Pipeline em Java com **Chain of Responsibility**: cada ajuste crítico de registro passa por todas as validações antes de executar. |
+| ☁️ **[AWS Delivery Assistant](https://github.com/guifqz/AWS-Delivery-Project)** | Fluxo de pedidos com **Step Functions**, DynamoDB, Lambda, SNS e **Amazon Bedrock** gerando confirmações e sugestões. |
+| 🎙️ **[Voice API](https://github.com/guifqz/voice-api)** | API de voz em Java. |
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:4cc9f0,50:4361ee,100:3a0ca3&section=footer" width="100%" alt="">
