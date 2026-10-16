@@ -63,11 +63,28 @@ lema: "se repetiu 3x, vira script"
 
 ## 🚀 Projetos em destaque
 
+### 🏢 Infra e automação de TI
+
 | Projeto | O que faz |
 |---|---|
-| ⚡ **[GTweaks](https://github.com/guifqz/gtweakss)** | Otimizador all-in-one em PowerShell para Windows 10/11: remove bloatware, desativa telemetria e ajusta serviços e registro. Fork PT-BR do WinUtil, MIT. Roda com um comando. |
+| 🖥️ **[Inventário de TI](https://github.com/guifqz/inventario-ti-powershell)** | Módulo PowerShell que coleta hardware, software, discos e SO das máquinas da rede (CIM, em paralelo) e gera relatório HTML/CSV/JSON com alertas de disco cheio e Windows fora de suporte. Pester + CI. |
+| 🖨️ **[Printer Monitor](https://github.com/guifqz/printer-monitor)** | Dashboard web para a TV da TI: lê toner, status, contador e erros das impressoras via **SNMP** (Printer-MIB) e avisa por webhook. FastAPI + pysnmp, com modo demo. |
+| 🎫 **[Helpdesk API](https://github.com/guifqz/helpdesk-api)** | API REST de chamados em **Spring Boot 3 / Java 21**: JWT, papéis, SLA por prioridade, máquina de estados de status, dashboard, Flyway e testes de integração. |
+
+### ⚡ Otimização de Windows e games
+
+| Projeto | O que faz |
+|---|---|
+| 📊 **[Windows Latency Audit](https://github.com/guifqz/windows-latency-audit)** | Audita 19 configurações que afetam FPS e input lag, dá **nota de 0 a 100**, explica cada achado e aplica só o que você escolher, com backup e rollback. Sem placebo. |
+| 📡 **[NetLag Monitor](https://github.com/guifqz/netlag-monitor)** | CLI que mede latência, jitter (RFC 3550), perda e **bufferbloat** contra gateway, DNS e regiões da AWS e diz em português onde está o problema: Wi-Fi, rota ou fila. |
+| ⚡ **[GTweaks](https://github.com/guifqz/gtweakss)** | Otimizador all-in-one em PowerShell para Windows 10/11 (fork PT-BR do WinUtil, MIT). Roda com um comando. |
 | 🔍 **GTweaks Amostra Grátis** *(privado)* | Executável leve que dá uma **nota de 0 a 100** ao PC e aplica as otimizações básicas em 1 clique, com desfazer. Manda métricas (funil, nota antes/depois, hardware) para um webhook do Discord. |
 | 🛡️ **[Motor de Validação](https://github.com/guifqz/Motor-de-Valida-o-GTweaksEngine)** | Pipeline em Java com **Chain of Responsibility**: cada ajuste crítico de registro passa por todas as validações antes de executar. |
+
+### ☁️ Backend e cloud
+
+| Projeto | O que faz |
+|---|---|
 | ☁️ **[AWS Delivery Assistant](https://github.com/guifqz/AWS-Delivery-Project)** | Fluxo de pedidos com **Step Functions**, DynamoDB, Lambda, SNS e **Amazon Bedrock** gerando confirmações e sugestões. |
 | 🎙️ **[Voice API](https://github.com/guifqz/voice-api)** | API de voz em Java. |
 
